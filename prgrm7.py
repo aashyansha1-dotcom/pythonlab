@@ -1,7 +1,0 @@
-l=float(input("enter the length"))
-print(l)
-b=float(input("enter the breadth"))
-print(b)
-print("perimeter of rectangle")
-p=2*(l+b)
-print(p)
